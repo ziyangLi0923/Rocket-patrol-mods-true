@@ -25,4 +25,5 @@ let borderPadding = borderUISize / 3;
 //                                                                                       speed up(once per a fire since the fuel limit)
 
 // Replace the UI borders with new artwork (10) 》 new UI borders which make the user's perspective be like looking out from the spacecraft  
-// 
+// Allow the player to control the Rocket after it's fired (5)
+// Implement the speed increase that happens after 30 seconds in the original game (5)
